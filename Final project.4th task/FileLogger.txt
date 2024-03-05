@@ -1,0 +1,104 @@
+﻿3/5/2024 1:42:26 AM: The balance of ID0, Luka Tsagareishvili is 0Lari
+
+3/5/2024 1:42:44 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/5/2024 1:47:21 AM: The balance of ID0, Luka Tsagareishvili is 0Lari
+
+3/5/2024 1:47:30 AM: Luka Tsagareishvili have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 1:47:53 AM: Luka Tsagareishvili have withdrawn 250Lari from his/her account. Existing Balance is 0Lari
+
+3/5/2024 1:51:08 AM: The balance of ID0, Luka Tsagareishvili is 0Lari
+
+3/5/2024 1:51:30 AM: The balance of ID0, Luka Tsagareishvili is 0Lari
+
+3/5/2024 1:51:42 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/5/2024 1:51:49 AM: The balance of ID0, Luka Tsagareishvili is 0Lari
+
+3/5/2024 1:56:55 AM: The balance of ID0, Luka Tsagareishvili is 0Lari
+
+3/5/2024 1:57:07 AM: Luka Tsagareishvili have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 1:57:22 AM: Luka Tsagareishvili have withdrawn 200Lari from his/her account. Existing Balance is 0Lari
+
+3/5/2024 1:58:13 AM: Luka Tsagareishvili have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 1:58:19 AM: Luka Tsagareishvili have withdrawn 200Lari from his/her account. Existing Balance is 350Lari
+
+3/5/2024 1:58:25 AM: The balance of ID0, Luka Tsagareishvili is 350Lari
+
+3/5/2024 1:58:30 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 850Lari
+
+3/5/2024 2:09:11 AM: The balance of ID0, Giorgi Giorgadze is 0Lari
+
+3/5/2024 2:10:33 AM: The balance of ID0, treq tbnj is 0Lari
+
+3/5/2024 2:11:26 AM: The balance of ID1, sdts sadsa is 0Lari
+
+3/5/2024 2:15:55 AM: The balance of ID1, George  is 0Lari
+
+3/5/2024 2:30:22 AM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 2:31:17 AM: Saba Tsagareishvili have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 2:32:57 AM: The balance of ID1, George Mikautadze is 0Lari
+
+3/5/2024 2:34:25 AM: The balance of ID0, Gia Sura is 0Lari
+
+3/5/2024 2:34:52 AM: The balance of ID0, John Green is 0Lari
+
+3/5/2024 2:47:56 AM: The balance of ID0, 8212 hello is 0Lari
+
+3/5/2024 2:56:50 AM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 2:57:17 AM: George Kinkladze have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 2:57:23 AM: George Kinkladze have withdrawn 200Lari from his/her account. Existing Balance is 350Lari
+
+3/5/2024 3:08:46 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/5/2024 3:10:40 AM: The balance of ID12, Luka Tsagareishvili is 0Lari
+
+3/5/2024 3:13:05 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/5/2024 3:37:42 AM: The balance of ID8, George Hellou is 0Lari
+
+3/5/2024 3:39:06 AM: The balance of ID9, sada sdas is 0Lari
+
+3/5/2024 3:39:30 AM: The balance of ID10, tom thomas is 0Lari
+
+3/5/2024 3:41:16 AM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 3:42:20 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/5/2024 3:42:27 AM: Luka Tsagareishvili have withdrawn 200Lari from his/her account. Existing Balance is 300Lari
+
+3/5/2024 3:46:03 AM: Luka Tsagareishvili have added 500 Lari to his/her account. Existing Balance is 500Lari
+
+3/5/2024 3:56:29 AM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 3:56:37 AM: Luka Tsagareishvili have added 750 Lari to his/her account. Existing Balance is 750Lari
+
+3/5/2024 3:56:41 AM: Luka Tsagareishvili have withdrawn 200Lari from his/her account. Existing Balance is 550Lari
+
+3/5/2024 3:56:43 AM: The balance of ID1, Luka Tsagareishvili is 550Lari
+
+3/5/2024 7:57:06 PM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 7:57:28 PM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 7:57:32 PM: Luka Tsagareishvili have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 7:57:37 PM: Luka Tsagareishvili have withdrawn 200Lari from his/her account. Existing Balance is 350Lari
+
+3/5/2024 7:57:40 PM: The balance of ID1, Luka Tsagareishvili is 350Lari
+
+3/5/2024 7:59:53 PM: The balance of ID11, Luca Morales is 0Lari
+
+3/5/2024 8:22:26 PM: The balance of ID1, Luka Tsagareishvili is 0Lari
+
+3/5/2024 8:22:28 PM: Luka Tsagareishvili have added 550 Lari to his/her account. Existing Balance is 550Lari
+
+3/5/2024 8:22:31 PM: Luka Tsagareishvili have withdrawn 200Lari from his/her account. Existing Balance is 350Lari
+
